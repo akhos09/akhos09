@@ -1,5 +1,3 @@
-<h1 align="center">akhos09</h1>
-
 <h2>Currently working on:</h2>
 <div align="center">
   
