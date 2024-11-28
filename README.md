@@ -1,3 +1,6 @@
+
+<img align="center" width="100%" alt="about" src="./imgs/backgroundimage.gif"/>
+
 <h2>Currently working on:</h2>
 <div align="center">
   
