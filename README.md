@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" alt="about" src="./imgs/backgroundgif.gif"/>
+<img align="center" width="100%" alt="about" src="./imgs/gifdefinitivo.gif"/>
 
 <h2>Currently working on:</h2>
 <div align="center">
