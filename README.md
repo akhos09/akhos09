@@ -1,6 +1,8 @@
-<img align="center" width="100%" alt="about" src="./imgs/gifdefinitivo.gif"/>
+<div align="center">
+  <img align="center" src="./imgs/gifdefinitivo.gif" alt="about" style="border: 1px solid #d1d5da; border-radius: 5px;"/>
+</div>
 
-<h2>Currently working on:</h2>
+<h2 align="center">Currently working on:</h2>
 
 <table align="center">
   <tr>
