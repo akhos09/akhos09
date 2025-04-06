@@ -2,7 +2,7 @@
   <img align="center" src="./imgs/gifdefinitivo.gif" alt="about" style="border: 1px solid #d1d5da; border-radius: 5px;"/>
 </div>
 <br>
-<h2 align="center">womp womp</h2>
+<h2 align="center">Improving these:</h2>
 <br>
 <table align="center">
   <tr>
