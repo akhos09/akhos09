@@ -7,8 +7,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/akhos09/vagrant-utilities.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhos09&repo=XenoCore&theme=gruvbox" alt="Vagrant Utilities" />
+      <a href="https://github.com/akhos09/XenoCore.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhos09&repo=XenoCore&theme=gruvbox" alt="XenoCore" />
       </a>
     </td>
   </tr>
